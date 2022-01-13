@@ -9,7 +9,6 @@ pip install -r requirements.txt
 
 ## Usage
 ```python
-import foobar
 
 # to search about name 'john'
 python annuairetel247.py john
